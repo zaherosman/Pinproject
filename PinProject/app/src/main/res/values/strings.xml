@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">PinProject</string>
+    <string name="title">Bem Vindo ao Sistema de Registro de Trabalho</string>
+    <string name="email">E-mail</string>
+    <string name="pass">Senha</string>
+    <string name="login">Entrar</string>
+    <string name="forgotPass">Esqueci a Senha</string>
+    <string name="confirmPassword">Confirmar Senha</string>
+    <string name="dismiss">Retornar</string>
+
+    <string name="fill_in_all_fields">Preencha Todos os Campos</string>
+    <string name="invalid_email">E-Mail Invalido</string>
+    <string name="updatedPassword">Senha Atualizada com Sucesso</string>
+    <string name="minimunPassSize">A senha deve conter no minimo 8 caracteres</string>
+    <string name="differentPassword">Senhas diferentes</string>
+    <string name="userNotFound">Usuario Não Encontrado</string>
+
+    <string name="updatePass">Trocar Senha</string>
+    <string name="setNewPass">Atualizar Senha</string>
+    <string name="cancel">Cancelar</string>
+
+    <string name="loginFailed">Falha no Login</string>
+</resources>
